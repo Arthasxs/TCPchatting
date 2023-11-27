@@ -1,4 +1,4 @@
-# TCPChatting
+# TCPchatting
 
 基于TCP协议的聊天平台
 
